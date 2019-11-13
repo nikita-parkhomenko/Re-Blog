@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Re-Blog/static/css/main.30598548.chunk.css",
+    "main.js": "/Re-Blog/static/js/main.8e680d58.chunk.js",
+    "main.js.map": "/Re-Blog/static/js/main.8e680d58.chunk.js.map",
+    "runtime-main.js": "/Re-Blog/static/js/runtime-main.3e1948ba.js",
+    "runtime-main.js.map": "/Re-Blog/static/js/runtime-main.3e1948ba.js.map",
+    "static/js/2.33b848f5.chunk.js": "/Re-Blog/static/js/2.33b848f5.chunk.js",
+    "static/js/2.33b848f5.chunk.js.map": "/Re-Blog/static/js/2.33b848f5.chunk.js.map",
+    "index.html": "/Re-Blog/index.html",
+    "precache-manifest.43cc1913f2c8d2da4a9c174c9c805f7f.js": "/Re-Blog/precache-manifest.43cc1913f2c8d2da4a9c174c9c805f7f.js",
+    "service-worker.js": "/Re-Blog/service-worker.js",
+    "static/css/main.30598548.chunk.css.map": "/Re-Blog/static/css/main.30598548.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e1948ba.js",
+    "static/js/2.33b848f5.chunk.js",
+    "static/css/main.30598548.chunk.css",
+    "static/js/main.8e680d58.chunk.js"
+  ]
+}
